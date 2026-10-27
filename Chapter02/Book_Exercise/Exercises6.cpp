@@ -8,6 +8,6 @@ int main(void)
     const double RADIUS = 2.0;
 
     C = 2 * PI * RADIUS;
-    printf("圓的周長是: %f\n", C);
+    printf("The circumference of a circle is: %f\n", C);
     return 0;
 }

@@ -10,6 +10,6 @@ int main(void)
 
     A = PI * r * r;
     V = A * h;
-    printf("圓柱的體積是: %f 立方公分\n", V);
+    printf("The volume of the cylinder is: %f cubic centimeters.\n", V);
     return 0;
 }
