@@ -1,11 +1,11 @@
+//This topic will be put on hold for now.//
 #include<stdio.h>
 #include<stdlib.h>
-#include<math.h>
 int main(void)
 {
     double wage = 160.0;
     double hours;
-    double salary;
+    double salary = 0;
 
     printf("Enter the number of working hours to calculate your weekly wage.");
     printf("Enter this week's working hours : ");
